@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musemy4
-- 👀 I’m interested in front-end tools like angular, react and every words related on code. 
+- 👀 I’m interested in web environments, expecially front-end tools. 
      i like styling things, but i rather enjoying make functions and make code simple, beautiful
 - 🌱 I’m currently learning GIS javascript libraries - openlayers and leafletjs.
 - 💞️ I’m looking to collaborate on make something good
