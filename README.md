@@ -4,7 +4,7 @@
      i like styling things, but i rather enjoy making functions and code simpler, more beautiful
 - 🌱 I’m currently learning GIS javascript libraries - openlayers and leafletjs.
 - 💞️ I’m looking to collaborate on make something good
-- 📫 How to reach me ... musemy@naver.com 
+
 
 <!---
 musemy4/musemy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
