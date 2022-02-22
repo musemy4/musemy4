@@ -5,7 +5,7 @@
      i like styling things, but i rather enjoy making functions and code simpler, more beautiful
  👌 I’m looking to collaborate on make something good
 
-not clean, but these are my thoughts currently, 
+These are my thoughts currently ((they can be not neat tho🤣🤣))  
 check it out! 
  >> https://musemy-fe.tistory.com/
 
