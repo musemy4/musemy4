@@ -5,6 +5,10 @@
      i like styling things, but i rather enjoy making functions and code simpler, more beautiful
  👌 I’m looking to collaborate on make something good
 
+not clean, but these are my thoughts currently, 
+check it out! 
+ >> https://musemy-fe.tistory.com/
+
 
 <!---
 musemy4/musemy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
